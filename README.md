@@ -1,2 +1,2 @@
-# key-switch
-A demonstration of key-switching in Apache Crunch, used to demonstrate efficiency. Will be accompanied by a blog post when completed.
+# flume-timestamp-body-interceptor
+A demonstration of filtering data in Flume based on timestamps.
